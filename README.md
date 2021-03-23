@@ -18,8 +18,8 @@ The files can be found at inside airbnb website avaiable [here](http://insideair
 
 ## File Descriptions
 
-•	Airbnb_Rio_de_Janeiro_neighbourhood_analysis.ipynb: notebook to showcase all the analyzes related to the above questions.
-•	listings.csv: dataset used in this analysis.
+* Airbnb_Rio_de_Janeiro_neighbourhood_analysis.ipynb: notebook to showcase all the analyzes related to the above questions.
+* listings.csv: dataset used in this analysis.
 
 ## Results
 The main findings of the code can be found at the post available [here](https://matheusbusch.medium.com/rio-de-janeiros-neighbourhoods-analysis-83e903065701).
